@@ -2,7 +2,7 @@ $(window).on('load', function() {
   var documentSettings = {};
 
   // Some constants, such as default settings
-  const CHAPTER_ZOOM = 20;
+  const CHAPTER_ZOOM = 15;
 
   // First, try reading Options.csv
   $.get('csv/Options.csv', function(options) {
