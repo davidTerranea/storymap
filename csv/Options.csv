@@ -1,6 +1,6 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in HandsOnDataViz.org"
-Storymap Title,Leaflet Storymaps Demo,
+Storymap Title, New Title for test purposes,
 Storymap Subtitle,Add subtitle here<br><small>Scroll down <i class='fa fa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
 Storymap Logo,media/cthumanities-logo.png,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
